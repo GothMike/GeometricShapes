@@ -1,0 +1,17 @@
+C:\Users\mixan\source\repos\GeometricShapes\GeometricShapes\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\mixan\source\repos\GeometricShapes\GeometricShapes\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\mixan\source\repos\GeometricShapes\GeometricShapes\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\mixan\source\repos\GeometricShapes\GeometricShapes\bin\Debug\net6.0\GeometricShapes.deps.json
+C:\Users\mixan\source\repos\GeometricShapes\GeometricShapes\bin\Debug\net6.0\GeometricShapes.runtimeconfig.json
+C:\Users\mixan\source\repos\GeometricShapes\GeometricShapes\bin\Debug\net6.0\GeometricShapes.dll
+C:\Users\mixan\source\repos\GeometricShapes\GeometricShapes\bin\Debug\net6.0\GeometricShapes.pdb
+C:\Users\mixan\source\repos\GeometricShapes\GeometricShapes\obj\Debug\net6.0\GeometricShapes.csproj.AssemblyReference.cache
+C:\Users\mixan\source\repos\GeometricShapes\GeometricShapes\obj\Debug\net6.0\GeometricShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mixan\source\repos\GeometricShapes\GeometricShapes\obj\Debug\net6.0\GeometricShapes.AssemblyInfoInputs.cache
+C:\Users\mixan\source\repos\GeometricShapes\GeometricShapes\obj\Debug\net6.0\GeometricShapes.AssemblyInfo.cs
+C:\Users\mixan\source\repos\GeometricShapes\GeometricShapes\obj\Debug\net6.0\GeometricShapes.csproj.CoreCompileInputs.cache
+C:\Users\mixan\source\repos\GeometricShapes\GeometricShapes\obj\Debug\net6.0\GeometricShapes.dll
+C:\Users\mixan\source\repos\GeometricShapes\GeometricShapes\obj\Debug\net6.0\refint\GeometricShapes.dll
+C:\Users\mixan\source\repos\GeometricShapes\GeometricShapes\obj\Debug\net6.0\GeometricShapes.pdb
+C:\Users\mixan\source\repos\GeometricShapes\GeometricShapes\obj\Debug\net6.0\GeometricShapes.genruntimeconfig.cache
+C:\Users\mixan\source\repos\GeometricShapes\GeometricShapes\obj\Debug\net6.0\ref\GeometricShapes.dll
